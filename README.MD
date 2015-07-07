@@ -6,6 +6,8 @@
 This is not it. Lilliput is a really lightweight functionnal script that take your files and * "minify" * them.
 
 You may clone or unzip this project into your own, or use `npm install lilliput`.
+
+
 ===
 ###### Use
 ===
