@@ -1,5 +1,3 @@
-### Lilliput
-
 ![Scale icon](http://b.dryicons.com/images/icon_sets/minimalistica_icons/png/128x128/cut.png) Cut down on your code and gain back those precious octets. 
 
 *Maybe you were looking for [uglify](https://github.com/mishoo/UglifyJS2) ?*
