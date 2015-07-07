@@ -13,15 +13,20 @@ You may clone or unzip this project into your own, or use `npm install lilliput`
 ===
 
 `lilliput`: same as
+
 `lilliput -A, --all` : take and compress every file in your directory and subdirectories into one, named `all.min.css`
+
 `-S, --separate` : every file in your directory and subdirectories is minified, but retain its name as `file_name.min.css`
+
 `-d, --delete` : remove the file(s) used to create the mini version from your directory.
+
 `-D, --delete-all` : remove all files used to create the mini version from your directory. (Be careful !)
+
 `-O, --output [name]` : specify the name of your output file as `new_name.min.css`. Implies `--all` if you do not supply file names as optional arguments. Is irrelevant with `--separate`. However, you can use as many `--output` or ``--delete`` as you provide filenames. 
 
 For example :
 
->
+
 ``` shell
 
 $> lilliput -A
