@@ -1,5 +1,6 @@
 ===
-#### Introduction ===
+##### Introduction
+===
 
 
 ![Scale icon](http://b.dryicons.com/images/icon_sets/minimalistica_icons/png/128x128/cut.png) Cut down on your code 
@@ -14,7 +15,8 @@ You may clone or unzip this project into your own, or use `npm install lilliput`
 
 
 ===
-#### Use ===
+##### Use
+===
 
 `lilliput`: same as
 
