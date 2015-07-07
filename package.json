@@ -1,6 +1,6 @@
 {
   "name": "lilliput",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Minifier for js css",
   "main": "index.js",
   "scripts": {
